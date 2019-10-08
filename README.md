@@ -14,3 +14,7 @@ DOCH nicht yo
 
 
 ## How to Contribute
+
+## Copyright
+
+nenene
